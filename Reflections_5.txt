@@ -1,0 +1,1 @@
+Backlog musi być posortowany według priorytetu zadań. Na górze powinny być zadania z pirorytetem najwyższym. Priorytet może zależeć od np. możliwości wdrożenia, zależności, wartości biznesowej.
