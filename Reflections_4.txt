@@ -1,0 +1,1 @@
+W Scrumie zadania wykonywane są w określonym czasie (sprint) i ustalane przed tym czasem podczas planningu. Zasadniczo zawartość zadań nie powinna ulegać zmienie podczas sprintu.  Z kolei w Kanbanie mamy otwarty strumień zadań, zadania cały czas napływają, a Product Owner zarządza kolejnością ich wykonywania, nie mamy sprintów.
