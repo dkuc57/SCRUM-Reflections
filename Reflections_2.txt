@@ -1,0 +1,1 @@
+Test-Driven Development (TDD) to technika towarzenia oprogramowania, w której w pierwszej kolejności piszemy testy do funkjonalności, która nie istnieje, a następnie piszemy tą fukcjonalność.
