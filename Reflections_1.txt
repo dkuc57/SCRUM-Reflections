@@ -1,0 +1,2 @@
+Wymagnia funkcjonalne opisują funkcje wykonywane przez system, np. czynności, operacje, usługi.
+Wymagania niefunkcjonalne opisują ograniczenia, przy zachowaniu których system powinien realizować swe funkcje.
